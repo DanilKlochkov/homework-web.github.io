@@ -298,7 +298,7 @@ ul.leftside-f li a:hover {
   margin: 0 40px;
 }
 .banner {
-  background-image: url(../images/banner.jpg);
+  background-image: url(../images/banner.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -316,7 +316,7 @@ ul.leftside-f li a:hover {
   flex: 0 0 50%;
 }
 .insideimg {
-  background-image: url(../images/tattoo2.jpeg);
+  background-image: url(../images/tattoo2.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -380,7 +380,7 @@ ul.leftside-f li a:hover {
   opacity: 1;
 }
 .testimonials {
-  background-image: url(../images/twit.jpg);
+  background-image: url(../images/twit.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -427,7 +427,7 @@ ul.leftside-f li a:hover {
   object-fit: cover;
 }
 .titleteam {
-  background-image: url(../images/tattoo2.jpeg);
+  background-image: url(../images/tattoo2.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -527,7 +527,7 @@ ul.leftside-f li a:hover {
   transition: all 0.5s;
 }
 .twitter {
-  background-image: url(../images/twit.jpg);
+  background-image: url(../images/twit.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -651,7 +651,7 @@ ul.leftside-f li a:hover {
 }
 .contact a.send {
   background: #9a977a;
-  width: 75%;
+  width: 100%;
   display: block;
   color: #fff;
   padding: 15px;
